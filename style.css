@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 106, 106);
+    color: #a4ffff;
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+    color: #ffcee8;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: rgba(255, 151, 250, 0.637);
+    font-size: 20px;
+}
+#camera,#result{
+    border: 2px solid #ff8a9e;
+    height: 400px;
+    width: 400px;
+}
